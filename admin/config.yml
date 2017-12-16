@@ -1,3 +1,6 @@
 backend:
   name: github
   repo: swestover/api
+  
+publish_mode: editorial_workflow
+media_folder: "images/uploads"
